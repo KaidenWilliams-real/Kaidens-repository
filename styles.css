@@ -1,0 +1,33 @@
+body {
+width: 100%;
+background-image: linear-gradient(to right, #FAD703, #C51266);
+}
+
+ .box {
+ color: #41117F;
+ background-color: #DCD0FF;
+ width: 80%;
+ margin: auto;
+ margin-top: 30px;
+ text-align: center;
+ border-radius: 8px;
+ box-sizing: border-box;
+}
+
+#picture1 {
+background-image: url("1.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+width: 90%;
+height: 200px;
+margin: auto;
+display: block;
+}
+
+.counter {
+text-align: center;
+font-size: 50px;
+}
+
